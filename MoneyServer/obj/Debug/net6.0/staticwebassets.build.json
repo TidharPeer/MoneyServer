@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3N0Q8+hSrikGW3xNMPCYjLxlzlQ6Y8RirBcZTWOoNCI=",
+  "Source": "MoneyServer",
+  "BasePath": "_content/MoneyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

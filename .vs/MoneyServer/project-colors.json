@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95e05561-1d9e-4885-8d5c-3b2b82d89346": {
+      "ProjectGuid": "95e05561-1d9e-4885-8d5c-3b2b82d89346",
+      "DisplayName": "MoneyServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
